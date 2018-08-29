@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LabActivity1a</string>
+    <string name="input_number">Please enter a number:</string>
+</resources>
